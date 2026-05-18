@@ -238,12 +238,14 @@ body::before {
 .modern { background: #7209b7; }
 .tuff { background: #f72585; }
 .resent { background: #2a9d8f; }
+.aero { background: #8FBC8F; }
 .launcher { background: #fca311; }
 
 .eb:hover { box-shadow: 0 0 25px #00b4d8; }
 .modern:hover { box-shadow: 0 0 25px #7209b7; }
 .tuff:hover { box-shadow: 0 0 25px #f72585; }
 .resent:hover { box-shadow: 0 0 25px #2a9d8f; }
+.aero:hover { box-shadow: 0 0 25px #8FBC8F; }
 .launcher:hover { box-shadow: 0 0 25px #fca311; }
 
 /* ===== About Page ===== */
